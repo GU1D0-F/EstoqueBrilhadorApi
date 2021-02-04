@@ -1,0 +1,9 @@
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\obj\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.csprojAssemblyReference.cache
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\obj\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.AssemblyInfoInputs.cache
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\obj\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.AssemblyInfo.cs
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\obj\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\bin\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.deps.json
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\bin\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.dll
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\bin\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.pdb
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\obj\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.dll
+C:\Users\95063\Desktop\TDD\EstoqueBrilhadorApi\EstoqueBrilhador.Dominio\obj\Debug\netcoreapp3.1\EstoqueBrilhador.Dominio.pdb
