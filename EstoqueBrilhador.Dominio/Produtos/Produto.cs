@@ -5,12 +5,13 @@ using System.Text;
 
 namespace EstoqueBrilhador.Dominio.Produtos
 {
-    public class Produto : Entidade
+    public class Produto : Entidade<Produto, long>
     {
-        public string Nome { get; private set; }
-        public string Codigo { get; private set; }
-        public int Valor { get; private set; }
-        public int Quantidade { get; private set; }
+        public string Nome { get; set; }
+        public string Codigo { get; set; }
+        public double Valor { get; set; }
+        public int Quantidade { get; set; }
+        public long IdFornecedor { get; set; }
 
         private Produto() { }
 

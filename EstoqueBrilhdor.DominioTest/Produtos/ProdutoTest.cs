@@ -56,5 +56,27 @@ namespace EstoqueBrilhdor.DominioTest.Produtos
                 ProdutoBuilder.Novo().ComNome(nomeInvalido).Build())
                 .ComMensagem(Resource.NomeProdutoInvalido);
         }
+
+        [Theory]
+        [InlineData("")]
+        [InlineData(null)]
+        [InlineData("jdpasjdpasd")]
+        [InlineData("Codigo Invalido")]
+        public void NaoDeveCriarComCodigoInvalido(string codigoInvalido)
+        {
+            Assert.Throws<ExcecaoDeDominio>(() =>
+                ProdutoBuilder.Novo().ComCodigo(codigoInvalido).Build())
+                .ComMensagem(Resource.CodigoProdutoInvalido);
+        }
+
+        [Theory]
+        [InlineData(0)]
+        [InlineData(-1)]
+        public void NaoDeveCriarComValorInvalido(int valorInvalido)
+        {
+            Assert.Throws<ExcecaoDeDominio>(() =>
+                ProdutoBuilder.Novo().ComValor(valorInvalido).Build())
+                .ComMensagem(Resource.ValorProdutoInvalido);
+        }
     }
 }

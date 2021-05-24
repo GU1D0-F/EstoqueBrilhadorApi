@@ -23,7 +23,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Api", "5.Api", "{EF3DC3A6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueBrilhador.Api", "EstoqueBrilhador.Api\EstoqueBrilhador.Api.csproj", "{ACB63369-CB0C-4986-AD1A-F4ADAEDEB05C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueBrilhdor.DominioTest", "EstoqueBrilhdor.DominioTest\EstoqueBrilhdor.DominioTest.csproj", "{840B4221-536A-4617-9B54-2898E1276D15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueBrilhdor.DominioTest", "EstoqueBrilhdor.DominioTest\EstoqueBrilhdor.DominioTest.csproj", "{840B4221-536A-4617-9B54-2898E1276D15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts Banco", "Scripts Banco", "{0DDFE14F-3CEB-40AB-ABF5-0B47F8A92812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

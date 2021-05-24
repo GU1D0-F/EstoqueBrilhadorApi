@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6q7X+HdjhzyPwJFVnIQy+0GiPjNwCNrdlBdfGeS529RRLTzZDNcoQK+qtXWsDRfVCce81ckXGmfh+137sm7ybQ==",
+  "dgSpecHash": "FHenr7UmCt5+Eu3LdValAjyH6NHiIQHA+SjJg0OMSPXSW9mIlXUBGwCe0GwDgRd2/ACmbvtSCs1dw72OlDbKiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Api\\EstoqueBrilhador.Api.csproj",
+  "projectFilePath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Api\\EstoqueBrilhador.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\95063\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
     "C:\\Users\\95063\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

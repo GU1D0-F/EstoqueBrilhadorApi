@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4DkQz3pPgB3+f7sp9knlz1dbQEpsp6TBYSe7pY/YcqfAcbeON9bNcuHaTELZPbLr5BJM4Us1jFT9lLjBgE08w==",
+  "dgSpecHash": "1hDL5j9LlP7iXWNIoORbzQM5QfTMeOzaOpoXh+pyQ3cegMtcBVlRj4z4l/L1NqQSWubdFcsVkMorcwp5Foh+IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Infra\\EstoqueBrilhador.Infra.csproj",
+  "projectFilePath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Infra\\EstoqueBrilhador.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\95063\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\95063\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

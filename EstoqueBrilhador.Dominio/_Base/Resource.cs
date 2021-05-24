@@ -9,6 +9,7 @@ namespace EstoqueBrilhador.Dominio._Base
         public static string NomeProdutoInvalido = "Nome produto inválido";
         public static string CodigoProdutoInvalido = "Codigo produto inválido";
         public static string CodigoProdutoJaExiste = "Codigo do produto ja consta no banco de dados";
+        public static string ValorProdutoInvalido = "Valor do produto é inválido";
 
     }
 }

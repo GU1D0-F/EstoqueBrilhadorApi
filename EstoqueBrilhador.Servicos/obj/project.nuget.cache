@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QAvktB4lQb7j9eBYhe1hc/oA7rk/BiMv+5h5p52ZGN+p/6JUUxouZsHiQNodEClJavPzG/6wlGF3z5tNabIVLw==",
+  "dgSpecHash": "vYKcNo3Mcf3+49oeV+F7s80umh/yf5/Q6ekI2fFW7wnrJIhIBGA8aMCY/qjeTk5+HCBN4F14MmSlHzZRK3CeTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Servicos\\EstoqueBrilhador.Servicos.csproj",
+  "projectFilePath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Servicos\\EstoqueBrilhador.Servicos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\95063\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\95063\\.nuget\\packages\\devextreme.aspnet.data\\2.8.0\\devextreme.aspnet.data.2.8.0.nupkg.sha512",

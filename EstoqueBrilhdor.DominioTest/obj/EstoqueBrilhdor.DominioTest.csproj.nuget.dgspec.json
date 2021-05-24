@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj": {}
+    "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj": {
+    "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj",
         "projectName": "EstoqueBrilhador.Dominio",
-        "projectPath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj",
+        "projectPath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj",
         "packagesPath": "C:\\Users\\95063\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\95063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,6 +34,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,6 +46,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "DevExtreme.AspNet.Data": {
               "target": "Package",
@@ -72,25 +76,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj": {
+    "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj",
+        "projectUniqueName": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj",
         "projectName": "EstoqueBrilhdor.DominioTest",
-        "projectPath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj",
+        "projectPath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\EstoqueBrilhdor.DominioTest.csproj",
         "packagesPath": "C:\\Users\\95063\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\obj\\",
+        "outputPath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhdor.DominioTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\95063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -104,9 +110,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj": {
-                "projectPath": "C:\\Users\\95063\\Desktop\\TDD\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj"
+              "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj": {
+                "projectPath": "C:\\Users\\95063\\Desktop\\Study\\EstoqueBrilhadorApi\\EstoqueBrilhador.Dominio\\EstoqueBrilhador.Dominio.csproj"
               }
             }
           }
@@ -119,6 +126,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Bogus": {
               "target": "Package",
@@ -164,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
